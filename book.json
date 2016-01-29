@@ -1,0 +1,13 @@
+{
+    "structure": {
+        "readme": "README.md"
+    },
+    "styles": {
+        "website": "style/website.css"
+    },
+    "language": "zh-hans",
+    "plugins": ["toggle-chapters", "codeblock-filename", "splitter"],
+    "pluginsConfig": {
+        "themes":["night","white","sepia"]
+    }
+}
